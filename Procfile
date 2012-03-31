@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n bangalorehubot
+app: bin/hubot -a irc -n brugtranscriber
